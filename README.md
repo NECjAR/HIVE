@@ -14,7 +14,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# HIVE
+# HIVE.café
 > Hive is a community. Hive is a café. A small café, that's a love...
 
 See www.necjar.com/hive for details.
@@ -58,7 +58,7 @@ See the [open issues](https://github.com/NECjAR/HIVE/issues) for a list of propo
 [issues-shield]: https://img.shields.io/github/issues/NECjAR/HIVE.svg?style=for-the-badge
 [issues-url]: https://github.com/NECjAR/HIVE/issues
 [license-shield]: https://img.shields.io/github/license/NECjAR/HIVE.svg?style=for-the-badge
-[license-url]: https://github.com/NECjAR/HIVE/blob/master/LICENSE.txt
+[license-url]: https://github.com/NECjAR/HIVE/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
 [necjar]: https://necjar.com
