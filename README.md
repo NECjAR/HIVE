@@ -38,7 +38,7 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 
 ## Meta
 
-Airat Asadullin – [@Kadae](https://twitter.com/Kadae)
+Kadae – [@Kadae](https://twitter.com/Kadae)
 
 The man behind the [NECjAR](https://necjar.com).
 
